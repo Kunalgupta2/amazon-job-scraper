@@ -10,6 +10,8 @@ SOFTWARE REQUIREMENTS
 Java Runtime Environment (JRE)
 JSON library (e.g., JSON.jar)
 Text Editor (e.g., Virtual Studio Code)
+
+
 CUSTOMIZATION
 -> You can customize the script by modifying the headers, parameters, and the query string in the script to get the jobs according to your preference and location.
 
